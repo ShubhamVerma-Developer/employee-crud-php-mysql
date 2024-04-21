@@ -1,19 +1,51 @@
-# PHP-MySQL-CRUD-Operation-Employee-Management-CRUD
-Employee Management Simple CRUD PHP Application. Simple crud application using PHP &amp; MYSQL.
+### Step 1 : start apache and mysql both
 
-# FrontEnd:
-- HTML
-- CSS
-- Bootstrap
-- JS
-# BackEnd:
-- core PHP
-# Database:
-- MySQL
+![alt text](instructions/image.png)
 
-![home](https://github.com/mdtalalwasim/PHP-MySQL-CRUD-Operation-Employee-Management-CRUD/assets/91146041/7b9187bc-c32b-4d5b-9b45-c9ab34ed8d2c)
+### step 2 : go to the browser and paste the url
 
+```
+http://localhost
+```
 
-![add-new-employee-form](https://github.com/mdtalalwasim/PHP-MySQL-CRUD-Operation-Employee-Management-CRUD/assets/91146041/f04bbda7-46aa-441c-9538-5d31c461fd39)
+### step 3 : click on PhpMyadmin
 
-![Edit-Employee](https://github.com/mdtalalwasim/PHP-MySQL-CRUD-Operation-Employee-Management-CRUD/assets/91146041/dfdbda99-36be-4d69-951d-d678dac1bf62)
+![alt text](instructions/image-1.png)
+
+### step 4 : click on new
+
+![alt text](instructions/image-2.png)
+
+### step 5 : give the database name
+
+```
+php_employee_management
+```
+
+![alt text](instructions/image-3.png)
+
+then click on create
+
+### step 6 : click on import
+
+![alt text](instructions/image-4.png)
+
+### step 7 : click on choose file
+
+![alt text](instructions/image-5.png)
+
+### step 8 : choose the db.sql file then click on import button
+
+![alt text](instructions/image-6.png)
+
+### step 9 : copy the folder
+
+![alt text](instructions/image-7.png)
+
+### step 10 : go to the xampp location and paste this folder into the htdocs
+
+paste the browser
+
+```
+http://localhost/PHP-MySQL-CRUD-Operation-Employee-Management-CRUD-main
+```
